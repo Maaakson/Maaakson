@@ -1,4 +1,4 @@
-### My SwiftUI progress 👾
+### SwiftUI progress 👾
 
 | Course                              | Started on    | Finished on   | Repo        | 
 | :---                                | :----:        | :----:        | ----------- | 
